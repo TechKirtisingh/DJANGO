@@ -222,7 +222,6 @@ Contributions are welcome.
 ### Kirti Singh
 
 * GitHub: https://github.com/TechKirtisingh
-* LinkedIn: https://www.linkedin.com/in/kirti-singh-2b849029a
 
 ---
 
